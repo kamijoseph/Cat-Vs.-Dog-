@@ -1,8 +1,6 @@
-pandas
 scikit-learn
 numpy
 tensorflow
-pickle
 opencv-python
 pillow
 matplotlib
