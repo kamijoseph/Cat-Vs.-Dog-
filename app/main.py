@@ -35,10 +35,9 @@ def preprocess_cv2_style(image: Image.Image, size=(224, 224)):
 
 # st ui
 
-st.title("Visual Intelligence Hub")
+st.title("**Dog vs Cat Classification**")
 st.write(
-    "A unified interface for computer vision tasks. "
-    "Currently enabled: **Dog vs Cat Classification**."
+    "MobileNetV2 powered Dog VS. Cat Image Classification"
 )
 
 st.divider()
