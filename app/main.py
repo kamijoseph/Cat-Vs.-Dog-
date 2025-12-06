@@ -20,7 +20,7 @@ def load_dog_cat_class_names():
 
 # Load model + class names
 dog_cat_model = load_dog_cat_model()
-dog_cat_classes = load_dog_cat_class_names()
+dog_cat_classes = load_dog_cat_class_names() 
 
 
 #preprocessing
